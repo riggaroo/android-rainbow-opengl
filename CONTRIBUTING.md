@@ -67,7 +67,7 @@ contributors about the change, discuss the best way to go about implementing it.
 > Tip: Keep your master branch pointing at the original repository and make
 >  pull requests from branches on your fork. To do this, run:
 >   ```
-> git remote add upstream https://github.com/godaddy/<this-project>.git
+> git remote add upstream https://github.com/riggaroo/android-rainbow-opengl.git
 > git fetch upstream
 > git branch --set-upstream-to=upstream/master master
 >   ```
@@ -117,7 +117,7 @@ guide with respect to patterns, naming, documentation and testing.
 - [General GitHub Documentation](https://help.github.com/)
 - [GitHub Pull Request documentation](https://help.github.com/send-pull-requests/)
 
-[issues]: LINK_TO_PROJECTS_ISSUES_ON_GITHUB
+[issues]: https://github.com/riggaroo/android-rainbow-opengl/issues
 [coc]: ./CODE_OF_CONDUCT.md
 [slack]: https://godaddy-oss.slack.com/
 [fork]: https://help.github.com/en/articles/fork-a-repo
